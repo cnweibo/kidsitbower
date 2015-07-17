@@ -1,0 +1,13 @@
+{
+  "name": "highcharts",
+  "_cacheHeaders": {
+    "ETag": "W/\"1d94f442e391cb40fb66cc6c7352eb7a\"",
+    "Last-Modified": "Fri, 26 Jun 2015 11:36:33 GMT",
+    "Content-Type": "application/javascript"
+  },
+  "_release": "e-tag:W/\"1d94f44",
+  "main": "index.js",
+  "_source": "http://code.highcharts.com/highcharts.js",
+  "_target": "*",
+  "_originalSource": "http://code.highcharts.com/highcharts.js"
+}

@@ -33,6 +33,7 @@
     "jquery-placeholder": "~2.1.0",
     "greensock": "~1.17.0",
     "code-prettify": "*",
-    "bootstrap-wysihtml5": "*"
+    "bootstrap-wysihtml5": "*",
+    "datatables": "~1.10.7"
   }
 }

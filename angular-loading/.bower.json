@@ -1,0 +1,36 @@
+{
+  "name": "angular-loading",
+  "description": "Angular directive that lets you to prevent user interaction with part of the page and display loading/busy indicator (spinner based on spin.js)",
+  "homepage": "https://github.com/darthwade/angular-loading",
+  "bugs": "https://github.com/darthwade/angular-loading/issues",
+  "author": {
+    "name": "Vadym Petrychenko",
+    "email": "vadympetrychenko@gmail.com",
+    "url": "http://petrychenko.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darthwade/angular-loading.git"
+  },
+  "main": "./angular-loading.js",
+  "ignore": [
+    ".idea",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "angular": "~1.3.0",
+    "spin.js": "~2.0.0"
+  },
+  "devDependencies": {},
+  "_release": "e30ad76",
+  "_resolution": {
+    "type": "commit",
+    "commit": "e30ad76"
+  },
+  "_source": "git://github.com/darthwade/angular-loading.git",
+  "_target": "e30ad76",
+  "_originalSource": "angular-loading",
+  "_direct": true
+}
